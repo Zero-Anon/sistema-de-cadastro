@@ -1,0 +1,9 @@
+{
+    "workbench.colorTheme": "GitHub Dark",
+    "workbench.editor.autoLockGroups": {
+        "default": true,
+        "imagePreview.previewEditor": true
+    },
+    "workbench.editor.enablePreviewFromCodeNavigation": true,
+    "workbench.editor.enablePreviewFromQuickOpen": true
+}
